@@ -1,0 +1,22 @@
+.section-header {
+  width: 100%;
+  background-color: lightblue;
+  color: cornflowerblue;
+  font-weight: bold;
+}
+.section-header img {
+  width: 20%;
+  position: absolute;
+  top: 72px;
+  right: 0px;
+}
+
+.light-blue {
+  color: lightblue;
+}
+
+.dark-blue {
+  color: cornflowerblue;
+}
+
+/*# sourceMappingURL=style.css.map */
